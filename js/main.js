@@ -107,8 +107,8 @@ updateSliderPosition();
 
 // currently page is not available
 
-function pagenot(){
-    alert("Currently this page is not available try some time later!!!");
-    return false;
-}
-pagenot();
+// function pagenot(){
+//     alert("Currently this page is not available try some time later!!!");
+//     return false;
+// }
+// pagenot();
